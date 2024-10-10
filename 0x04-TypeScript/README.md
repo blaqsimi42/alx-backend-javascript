@@ -1,8 +1,3 @@
-https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/baea85b5e9a9fb5c36ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20241009%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241009T163719Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=68bd7a89357ead9a95c9c60f14e1881e8e00e9241528c3ff6c5635c6096ad224
-https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/baea85b5e9a9fb5c36ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20241009%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241009T163719Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=68bd7a89357ead9a95c9c60f14e1881e8e00e9241528c3ff6c5635c6096ad224
-<br>
-https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/baea85b5e9a9fb5c36ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20241009%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241009T163719Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=68bd7a89357ead9a95c9c60f14e1881e8e00e9241528c3ff6c5635c6096ad224
-https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/baea85b5e9a9fb5c36ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20241009%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241009T163719Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=68bd7a89357ead9a95c9c60f14e1881e8e00e9241528c3ff6c5635c6096ad224
 Resources
 Read or watch:
 
